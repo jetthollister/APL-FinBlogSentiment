@@ -7,7 +7,7 @@ The analysis quantified the emotion of five economic pundits over the course of 
 
 ### Dataset
 
-The dataset is comprised of 36,982 individual blog posts from the 5 financial blog sites, and includes the title, date of publication, author, and text for each post. The repo regarding the web scraping of the posts can be found [here](https://github.com/jetthollister/APL-FinBlogScrape) (coming soon).
+The dataset is comprised of 36,982 individual blog posts from the 5 financial blog sites, and includes the title, date of publication, author, and text for each post. The repo regarding the web scraping of the posts can be found [here](https://github.com/jetthollister/APL-FinBlogScrape) (coming soon). The dataset is too large (123MB) to store in this repo, but if you send me an email (jett.hollister@duke.edu) I'll send you a copy.
 
 ### Results
 
